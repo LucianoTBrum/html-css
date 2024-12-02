@@ -10,4 +10,3 @@ Aprendendo a criar sites e a gerenciar repositórios!
 - [Executar o exercício 22 fundo 3](https://lucianotbrum.github.io/html-css/exercicios/ex022/fundo003.html)
 - [Executar o exercício 22 fundo 4](https://lucianotbrum.github.io/html-css/exercicios/ex022/fundo004.html)
 - [Executar o exercício 22 fundo 5](https://lucianotbrum.github.io/html-css/exercicios/ex022/fundo005.html)
-- [Executar o exercício 22 fundo 6](https://lucianotbrum.github.io/html-css/exercicios/ex022/fundo006.html)
