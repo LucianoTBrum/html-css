@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uso de iframe</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        iframe#tela {
+            width: 98vw;
+            height: 400px;
+            border: 2px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h1>Faça uma escolha</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos quo iure sapiente eum eaque laborum porro nam? Mollitia, ratione. Perspiciatis sapiente aliquid natus consequatur dolorum velit dolor consectetur eos ea!</p>
+
+    <ul>
+        <li><a href="páginas-extras/pag001.html" target="frame">Primeira Página</a></li>
+        <li><a href="páginas-extras/pag002.html" target="frame">Segunda Página</a></li>
+        <li><a href="páginas-extras/pag003.html" target="frame">Terceira Página</a></li>
+    </ul>
+
+
+
+    <iframe id="tela" name="frame" srcdoc="<h1>Escolha uma das opções acima</h1><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos quo iure sapiente eum eaque laborum porro nam? Mollitia, ratione. Perspiciatis sapiente aliquid natus consequatur dolorum velit dolor consectetur eos ea!</p><img src='imagens/Sergio.jpeg'>">
+        <p>Infelizmente seu navegador não é compativel com isso.</p>
+    </iframe>
+
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Optio delectus error nam cupiditate, cum eaque, aperiam temporibus excepturi corrupti, expedita aut sint maxime ullam fugit dolor sed veniam impedit. Accusantium? Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga totam aperiam numquam. Delectus aut minus repudiandae quos, odio ipsum deleniti quibusdam labore, animi atque mollitia numquam quis consectetur. Beatae, tempore.</p>
+</body>
+</html>
